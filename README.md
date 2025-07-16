@@ -20,8 +20,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tray0244)](https://solved.ac/tray0244)
 
-> 🔗 Click the badge to visit my Baekjoon profile!
-
 ---
 
 ## Contact
